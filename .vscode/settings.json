@@ -31,15 +31,5 @@
             ],
             "env": {}
         }
-    ],
-    "cSpell.enabled": true,
-    "cSpell.language": "en,de-DE",
-    "cSpell.words": [
-        "bool'sche",
-        "fulib",
-        "Modalfenster",
-        "Modalfensters",
-        "Tokenisierung",
-        "Wireframes"
     ]
 }
